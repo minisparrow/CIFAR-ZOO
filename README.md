@@ -127,6 +127,9 @@ It's cool, right?
 | preresnet110 |  250  |            |        |     √     |   √    |   √   |    **95.88**     |
 
 
+## pytorch train steps
+![](https://github.com/minisparrow/CIFAR-ZOO/blob/master/note/pytorch_train_steps.png)
+
 ## Acknowledgments
 
 Provided codes were adapted from
